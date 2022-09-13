@@ -1,0 +1,118 @@
+body{
+    margin: 0 auto;
+    max-width: 940px;
+    min-width: 420;
+    font: 13px/22px helvetica;
+    background: white;
+}
+.intro{
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 0px;
+    padding-left: 15px;
+    border-radius: 25px;
+    background-image: linear-gradient(red, yellow);
+    
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    height: 15px;
+    margin-top: 0px; 
+}
+h2{
+    text-align: center;
+    color: darkblue;
+    height: 15px;
+    margin-top: 0px; 
+}
+header img{
+    margin-top: 10px;
+    width: 115px;
+    height: 75px;
+    
+}
+nav{
+    
+    height: 30px;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-top: 6px;
+    background-color: yellow;
+    
+}
+nav ul{
+    margin: 0;
+    list-style: none;
+    
+}
+nav ul li{
+    float: left;
+    
+
+   
+}
+nav ul li a{
+    display: block;
+    margin-right: 20px;
+    width: 140px;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    padding-bottom: 2px;
+    text-decoration: none;
+    color: black;
+    font-family: verdana;
+}
+nav ul li a:hover{
+    color: #d9c7c7;
+}
+.context{
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 6px;
+    padding-left: 15px;
+    border-radius: 25px;
+    background-image: linear-gradient( yellow, red);
+}
+footer{
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 12px;
+    text-align: center;
+    background-color: #ddd;
+    font-size: 10px;
+}
+.form-control{
+    width: 250px;
+    border-radius: 25px; 
+    border: #f0f0f0;   
+}
+button{
+    color: white;
+    border-radius: 25px;
+    border: #f0f0f0;
+}
+.cad{
+    background-color: green;
+    cursor: pointer;
+}
+.lim{
+    background-color: darkred;
+    cursor: pointer;
+}
+footer{
+    background-color: red;
+    border: 1px solid black;
+    height: 60px;
+}
+i{
+    color: darkblue;
+}
+.form-check-input{
+    cursor: pointer;
+}
+#uf{
+    cursor: pointer;
+}
